@@ -1,4 +1,4 @@
-#!/bin/env/which bash
+#!/usr/bin/env bash
 
 read -p "New version (enter nothing for patch): " VERSION;
 VERSION=${VERSION:-patch};
