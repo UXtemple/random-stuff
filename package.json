@@ -1,0 +1,26 @@
+{
+  "name": "random-stuff",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "build": ".bin/build",
+    "clean": ".bin/clean",
+    "push": ".bin/push",
+    "test": ".bin/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uxtemple/random-stuff.git"
+  },
+  "author": "Darío Cravero <dario@uxtemple.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uxtemple/random-stuff/issues"
+  },
+  "homepage": "https://github.com/uxtemple/random-stuff#readme",
+  "devDependencies": {
+    "babel": "^5.8.19",
+    "tape": "^4.0.1"
+  }
+}
